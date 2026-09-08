@@ -13,7 +13,7 @@ public class Cargo {
         this.hazardous = hazardous;
 
     }
-    
+
     public double getWeight() { return weight; }
     public double getDeclaredValue() { return declaredValue; }
     public boolean isHazardous() { return hazardous; }
