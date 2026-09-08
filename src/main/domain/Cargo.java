@@ -12,6 +12,7 @@ public class Cargo {
         this.declaredValue = declaredValue;
         this.hazardous = hazardous;
         //blablabla
+
     }
 
     public String getDescription() { return description; }
