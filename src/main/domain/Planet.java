@@ -9,7 +9,6 @@ public class Planet {
         this.name = name;
         this.sector = sector;
         this.securityLevel = securityLevel;
-        //ggfcfghchggyfh
     }
 
     public String getName() { return name; }
