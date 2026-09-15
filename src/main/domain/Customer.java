@@ -8,7 +8,7 @@ public class Customer {
     private boolean suspended;
     private double accountBalance;
 
-    public Customer(int id, String name, int loyaltyYears, boolean active, boolean suspended, double accountBalance) {
+    public Customer(int id, String name, int loyaltyYears, boolean active) {
         this.id = id;
         this.name = name;
         this.loyaltyYears = loyaltyYears;
